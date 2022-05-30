@@ -1,0 +1,87 @@
+.zdo{
+    border-radius: 100%;
+}
+
+
+.sm{
+    border-spacing: 40px 0px;
+}
+
+
+.img{
+    width: 60px;
+    height: 60px;
+}
+    
+body{
+    background-color: #F7F3F2;
+}
+
+.who{
+    font-family: Cursive;
+}
+
+.ctit{
+    font-family: fantasy;
+    color: rgb(6, 90, 145);
+    font-size: 45px;
+}
+
+
+.tit{
+    font-family: Fantasy;
+}
+
+.p1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.sp{
+    margin-right: 700px;
+}
+
+.cmnt{
+    background-color: rgb(247, 247, 238);
+    padding: 100px;
+}
+
+
+.split {
+    margin-top: 20%;
+    height: 100%;
+    width: 30%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.left {
+    left: 0;
+    margin-left: 10%;
+}
+  
+.right {
+    right: 0%;
+}
+
+.mid{
+    margin-top: 4%;
+    margin-left: 43%;
+    margin-right: 43%;
+}
+
+.ico{
+    width: 130px;
+    height: 130px;
+}
+
+.hah{
+    margin-right: 40%;
+}
+
+.foot{
+    margin-left: 40%;
+    margin-top: 15%;
+}
