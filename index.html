@@ -3,7 +3,6 @@
   <head>
     <link href="https://apply.holbertonschool.com/level2/school.css" rel="stylesheet">
     <link href="test.css" rel="stylesheet">
-    <script src="behavior.js"></script>
     <title>
       Main Page
     </title>
@@ -16,7 +15,7 @@
       <ul>
         <li><a href="whoami.html">Hobbies</a></li>
         <li><a href="tweets.html">Wanna See Some Tweets</a></li>
-        <li><a href="Contacts.html">Contact on Social Media platforms</a></li>
+        <li><a href="Contacts.html">Contact me on Social Media</a></li>
       </ul>
     </header>
 
@@ -73,11 +72,17 @@
           <br>
           <input type="submit" name="submit" >
         </form>
+        <br><br><br><br><br><br>
+        <center><h4>Click Here to resize it</h4></center>
+        <br><br><br>
+        <center><img id="med" src="data:image/png;base64,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" class="zdo small"></center>
       </aside>
     </main>
     <br><br>
     <footer class="foot">
       &copy; Made by Mohamed Toumi for <a href="https://apply.holbertonschool.com" target="_blank">Holberton School</a>.
     </footer>
+    <!-- call JS file after the page loads up <-> getElementById returns null -->
+    <script src="behavior.js"></script> 
   </body>
 </html>
