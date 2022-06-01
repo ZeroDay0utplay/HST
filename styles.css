@@ -58,11 +58,13 @@ body{
 }
 
 .left {
+    margin-top: 17%;
     left: 0;
     margin-left: 10%;
 }
   
 .right {
+    margin-top: 17%;
     right: 0%;
 }
 
