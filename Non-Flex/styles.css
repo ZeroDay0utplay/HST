@@ -1,0 +1,128 @@
+main{
+    flex-direction: row;
+    flex: auto;
+} 
+
+header{
+    flex-direction: column;
+    flex: auto;
+}
+
+body{
+    flex-direction: column;
+
+}
+
+.zdo{
+    border-radius: 100%;
+}
+
+article{
+    flex: 2;
+    overflow-y: auto;
+}
+
+aside{
+    flex: 1;
+    overflow-y: auto;
+}
+
+.ez{
+    margin-left: 7%;
+}
+
+.img{
+    /* margin-top: 30px; */
+    width: 60px;
+    height: 60px;
+}
+
+
+
+.ico{
+    width: 130px;
+    height: 130px;
+}
+
+.h2{
+    margin-top: 100%;
+}
+
+
+.who{
+    
+}
+
+
+.me{
+    margin-top: 30%;
+}
+
+.nice{
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+p{
+    margin-left: 4%;
+}
+
+.foot{
+    margin-top: 10%;
+    margin-left: 35%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.hk{
+    margin-top: 4%;
+    margin-left: 5%;
+    width: 300px;
+    height: 100px;
+}
+
+
+.gh{
+    margin-top: 3%;
+    margin-left: 35%;
+}
+
+.sm{
+    margin-top: 50%;
+    margin-left: 260%;
+    border-radius: 100%;
+    height: 40px;
+    width: 40px;
+}
+
+.tbsm{
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+
+.tit{
+    margin-bottom: 10%;
+}
+
+.lnk{
+    color: rgb(169, 121, 7);
+}
+
+/* Put FB and Twitter on the same line */
+.social-share {
+	font-size: 1px;
+}
+ 
+/* Spacing Between the 2 Buttons */
+
+.fb-share-button{
+    margin-right: 5px;
+}
+
+.hb{
+    margin-top: 20%;
+}
+ 
