@@ -36,7 +36,6 @@ aside{
 }
 
 .img{
-    /* margin-top: 30px; */
     width: 60px;
     height: 60px;
 }
@@ -48,19 +47,9 @@ aside{
     height: 130px;
 }
 
-.h2{
-    margin-top: 100%;
-}
-
-
-
-.me{
-    margin-top: 30%;
-}
-
 .nice{
-    margin-top: 3%;
-    margin-left: 3%;
+    margin-top: 10%;
+    margin-left: 0%;
     margin-right: 3%;
 }
 
@@ -77,10 +66,14 @@ ul {
 }
 
 .hk{
-    margin-top: 4%;
-    margin-left: 5%;
+    margin-top: 7%;
+    margin-left: 10%;
     width: 300px;
     height: 100px;
+}
+
+.add_border{
+    border: 2px solid #555;
 }
 
 
@@ -90,24 +83,17 @@ ul {
 }
 
 .sm{
+    margin-right: 50px;
     margin-top: 50%;
-    margin-left: 260%;
-    border-radius: 100%;
     height: 40px;
     width: 40px;
+    border-radius: 100%;
+
 }
 
-.tbsm{
-    border-collapse: separate;
-    border-spacing: 10px;
-}
 
-.tit{
-    margin-bottom: 10%;
-}
-
-.profile{
-    margin-top: 100%;
+.hb{
+    padding-bottom: 20%;
 }
 
 .lnk{
@@ -125,19 +111,11 @@ ul {
     margin-right: 5px;
 }
 
-.hb{
-    margin-top: 20%;
-}
 
-.d1{
-    width: 500px;
-    height: 500px;
-    margin-top: 100px;
-    margin-bottom: 500px;
-}
 
-.down{
-    margin-bottom: 30%;
+.sub-tit{
+    padding-left: 7%;
+    padding-bottom: 2%;
 }
 
 
@@ -145,4 +123,28 @@ h6.ez{
     padding-top: 3%;
     margin-left: 10%;
     padding-bottom: 3%;
+}
+
+.para{
+    padding-left: 10%;
+    margin-right: 10%;
+}
+
+.down{
+    padding-bottom: 20%;
+}
+
+
+.books{
+    margin-top: 7%;
+    margin-left: 20%;
+    width: 40%;
+    height: 60%;
+}
+
+.tv_serie{
+    margin-top: 7%;
+    margin-left: 20%;
+    width: 400px;
+    height: 250px;
 }
